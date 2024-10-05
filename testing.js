@@ -1,2 +1,2 @@
-const test = {testing:123};
-test;
+const test1 = {testing:123};
+test1;
